@@ -83,12 +83,12 @@ body > header > p.initial
 	align-items: center;
 	justify-content: center;
 
-	background: url(Autopilot (1).png) center center/256px 222px no-repeat;
+	background: url(Autopilot (1).png) center center/500px 500px no-repeat;
 
-	width: 256px; /* Half of the intrinsic image width. */
-	height: 222px; /* Half of the intrinsic image height. */
+	width: 500px; /* Half of the intrinsic image width. */
+	height: 500px; /* Half of the intrinsic image height. */
 
-	opacity: 0.75
+	opacity: 1.0
 }
 
 .buttons
